@@ -1,4 +1,3 @@
-const { createElement } = require("react");
 
 function salvarCarros(event) {
 //impedir de recarregar a página
